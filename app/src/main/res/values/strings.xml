@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Week5</string>
+    <string name="message"> VOTE PLEASE</string>
+    <string name="btn_text1">Accept</string>
+    <string name="btn_text2">VOTE</string>
+    <string name="messageName">Name: </string>
+    <string name="name_txt">Name</string>
+    <string name="id">ID:</string>
+    <string name="id_txt">Id</string>
+    <string name="write_your_name">Write your name</string>
+    <string name="write_your_id">Write your id</string>
+    <string name="refuse">Refuse</string>
+    <string name="accept">Accept</string>
+    <string name="toggle_button">ToggleButton</string>
+    <string-array name="ChooseCandidate">
+        <item>Choose Candidate</item>
+        <item>Mathew</item>
+        <item>Mark</item>
+        <item>Luke</item>
+    </string-array>
+</resources>
